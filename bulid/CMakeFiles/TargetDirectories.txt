@@ -1,0 +1,4 @@
+E:/student/bulid/CMakeFiles/TOOLS.dir
+E:/student/bulid/CMakeFiles/STUDENT.dir
+E:/student/bulid/CMakeFiles/edit_cache.dir
+E:/student/bulid/CMakeFiles/rebuild_cache.dir
